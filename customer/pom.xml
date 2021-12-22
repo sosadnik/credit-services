@@ -14,7 +14,7 @@
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-        <start-class>com.mycompany.com.mycompany.customer.CustomerApplication</start-class>
+        <start-class>com.mycompany.customer.CustomerApplication</start-class>
         <spring-boot-maven-plugin.version>2.5.7</spring-boot-maven-plugin.version>
         <spring-cloud-contract-maven-plugin.version>3.1.0</spring-cloud-contract-maven-plugin.version>
     </properties>
